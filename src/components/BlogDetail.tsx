@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { Calendar, User, ArrowLeft, Share2, BookOpen } from 'lucide-react';
-import { marked } from 'marked';
 import MarkdownIt from 'markdown-it';
 import { getBlogPost } from '../lib/firebase';
 import { BlogPost } from '../types/blog';

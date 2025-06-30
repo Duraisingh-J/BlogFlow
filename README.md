@@ -40,7 +40,7 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/Duraisingh-J/BlogFlow.git
-cd blog-hub
+cd blogflow
 
 # Install dependencies
 npm install
